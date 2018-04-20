@@ -3,6 +3,8 @@ optitrack mocap (motion capture system)
 
 NOTE: This document does not explain details, it asumes that you are already familiar with mocap.
 
+See a nice youtube video [here](https://www.youtube.com/watch?v=oOFkEIydl_4) about what this pkg does.
+
 Instructions on how to record your dataset:
 
 mocap calibration
