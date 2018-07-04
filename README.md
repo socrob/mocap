@@ -46,3 +46,5 @@ launch vrpn client node:
         roslaunch mbot_mocap mocap.launch
 
 open rviz, set fixed frame to map, add tf topic
+
+NOTE: you need to select at least 3 markers (on windows motive pc), right click, create rigid body and provide with a name without spaces and that does not start with a number.
